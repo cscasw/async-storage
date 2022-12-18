@@ -41,7 +41,7 @@ suppress_type=$FlowFixMe
 suppress_type=$FlowIgnore
 suppress_type=$FixMe
 
-module.name_mapper='@react-native-community/async-storage' -> 'emptyObject'
+module.name_mapper='@react-native-async-storage/async-storage' -> 'emptyObject'
 
 unsafe.enable_getters_and_setters=true
 
